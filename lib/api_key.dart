@@ -1,1 +1,1 @@
-const apiKey = "8db1f7c1ebe54ac080d194210241812";
+const apiKey = "INSERT_YOUR_API_KEY";
