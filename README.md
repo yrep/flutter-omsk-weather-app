@@ -1,6 +1,9 @@
 # flutter-omsk-weather-app
 Flutter app for displaying weather conditions in Omsk or other cities.
 
+Тестовое задание от компании Purrweb на позицию стажера Flutter - приложение "Погода в Омске".
+Для обеспечения работоспостобности вставьте свой API ключ от сервиса http://weatherapi.com в файле lib/api_key.dart
+
 Screenshots:
 
 Main screen - weather in Omsk
